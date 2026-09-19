@@ -506,3 +506,7 @@ The long-term goal is to build a **real-time English voice agent that acts as a 
 It should not simply translate words.
 
 It should understand the speaker's intent, produce natural English, and communicate that meaning through a convincing, fluent voice — while keeping the interaction fast enough to feel like a real conversation.
+
+## 🚧 Project Status
+
+This project is currently under active brainstorming.
